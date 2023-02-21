@@ -25,12 +25,7 @@
 var NAVTREE =
 [
   [ "Algorithms_in_C", "index.html", [
-    [ "The Algorithms - C", "index.html", [
-      [ "Overview", "index.html#autotoc_md68", null ],
-      [ "Features", "index.html#autotoc_md69", null ],
-      [ "Documentation", "index.html#autotoc_md70", null ],
-      [ "Contributions", "index.html#autotoc_md71", null ]
-    ] ],
+    [ "The Algorithms - C", "index.html", "index" ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md1", null ],
       [ "Our Standards", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md2", null ],
@@ -54,53 +49,65 @@ var NAVTREE =
       [ "Contributing", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md19", [
         [ "Maintainer/reviewer", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md20", null ],
         [ "Contributor", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md21", null ],
-        [ "Making Changes", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md22", [
-          [ "Code", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md23", null ],
-          [ "Documentation", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md24", null ],
-          [ "Test", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md25", null ],
-          [ "Typical structure of a program", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md26", null ],
-          [ "File name guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md27", null ],
-          [ "Directory guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md28", null ],
-          [ "Commit Guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md29", null ]
+        [ "LeetCode solutions", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md22", null ],
+        [ "Making Changes", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md23", [
+          [ "Code", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md24", null ],
+          [ "Documentation", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md25", null ],
+          [ "Test", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md26", null ],
+          [ "Typical structure of a program", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md27", null ],
+          [ "File name guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md28", null ],
+          [ "Directory guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md29", [
+            [ "Integrating CMake in a new directory", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md30", null ]
+          ] ],
+          [ "Commit Guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md31", null ]
         ] ],
-        [ "Pull Requests", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md30", [
-          [ "Building Locally", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md31", null ],
-          [ "Static Code Analyzer", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md32", null ],
-          [ "Code Formatter", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md33", null ],
-          [ "GitHub Actions", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md34", null ]
+        [ "Pull Requests", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md32", [
+          [ "Building Locally", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md33", null ],
+          [ "Static Code Analyzer", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md34", null ],
+          [ "Code Formatter", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md35", null ],
+          [ "GitHub Actions", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md36", null ]
         ] ]
       ] ]
     ] ],
     [ "Array", "d9/d41/md_data_structures_array__r_e_a_d_m_e.html", [
-      [ "Sort Function", "d9/d41/md_data_structures_array__r_e_a_d_m_e.html#autotoc_md36", null ],
-      [ "Structure", "d9/d41/md_data_structures_array__r_e_a_d_m_e.html#autotoc_md37", null ],
-      [ "Files", "d9/d41/md_data_structures_array__r_e_a_d_m_e.html#autotoc_md38", null ]
+      [ "Sort Function", "d9/d41/md_data_structures_array__r_e_a_d_m_e.html#autotoc_md38", null ],
+      [ "Structure", "d9/d41/md_data_structures_array__r_e_a_d_m_e.html#autotoc_md39", null ],
+      [ "Files", "d9/d41/md_data_structures_array__r_e_a_d_m_e.html#autotoc_md40", null ]
     ] ],
     [ "Dictionary", "de/d20/md_data_structures_dictionary__r_e_a_d_m_e.html", null ],
     [ "Simple generic Stack", "d1/d12/md_data_structures_stack__r_e_a_d_m_e.html", null ],
-    [ "List of all files", "d5/d88/md__d_i_r_e_c_t_o_r_y.html", [
-      [ "Audio", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md45", null ],
-      [ "Client Server", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md46", null ],
-      [ "Conversions", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md47", null ],
-      [ "Data Structures", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md48", null ],
-      [ "Developer Tools", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md49", null ],
-      [ "Exercism", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md50", null ],
-      [ "Games", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md51", null ],
-      [ "Geometry", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md52", null ],
-      [ "Graphics", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md53", null ],
-      [ "Greedy Approach", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md54", null ],
-      [ "Hash", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md55", null ],
-      [ "Leetcode", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md56", null ],
-      [ "Machine Learning", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md57", null ],
-      [ "Misc", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md58", null ],
-      [ "Numerical Methods", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md59", null ],
-      [ "Project Euler", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md60", null ],
-      [ "Searching", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md61", null ],
-      [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md62", null ]
+    [ "Audio", "d5/d88/md__d_i_r_e_c_t_o_r_y.html", [
+      [ "Client Server", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md47", null ],
+      [ "Conversions", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md48", null ],
+      [ "Data Structures", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md49", null ],
+      [ "Developer Tools", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md50", null ],
+      [ "Dynamic Programming", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md51", null ],
+      [ "Exercism", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md52", null ],
+      [ "Games", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md53", null ],
+      [ "Geometry", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md54", null ],
+      [ "Graphics", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md55", null ],
+      [ "Greedy Approach", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md56", null ],
+      [ "Hash", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md57", null ],
+      [ "Leetcode", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md58", null ],
+      [ "Machine Learning", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md59", null ],
+      [ "Math", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md60", null ],
+      [ "Misc", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md61", null ],
+      [ "Numerical Methods", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md62", null ],
+      [ "Process Scheduling Algorithms", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md63", null ],
+      [ "Project Euler", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md64", null ],
+      [ "Searching", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md65", null ],
+      [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md66", null ]
     ] ],
     [ "Sample solutions for <a href=\"http://exercism.io/\" target=\"_blank\" >exercism.io</a>", "d7/db5/md_exercism__r_e_a_d_m_e.html", null ],
     [ "Hash algorithms", "d4/dcb/md_hash__r_e_a_d_m_e.html", null ],
-    [ "LeetCode", "df/d58/md_leetcode__r_e_a_d_m_e.html", null ],
+    [ "LeetCode", "d6/d77/md_leetcode__d_i_r_e_c_t_o_r_y.html", null ],
+    [ "📚 Contributing 📚", "df/d58/md_leetcode__r_e_a_d_m_e.html", [
+      [ "💻 Cloning/setting up the project 💻", "df/d58/md_leetcode__r_e_a_d_m_e.html#autotoc_md73", null ],
+      [ "📝 Adding a new solution 📝", "df/d58/md_leetcode__r_e_a_d_m_e.html#autotoc_md74", [
+        [ "📜 Adding your new solution to the list 📜", "df/d58/md_leetcode__r_e_a_d_m_e.html#autotoc_md75", null ]
+      ] ],
+      [ "📦 Committing your changes 📦", "df/d58/md_leetcode__r_e_a_d_m_e.html#autotoc_md76", null ]
+    ] ],
     [ "ProjectEuler", "d8/d81/md_project_euler__r_e_a_d_m_e.html", null ],
     [ "Guidelines for reviewers and maintainers", "dc/db4/md__r_e_v_i_e_w_e_r__c_o_d_e.html", null ],
     [ "Modules", "modules.html", "modules" ],
@@ -128,9 +135,10 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d4/d99/ode__semi__implicit__euler_8c.html#a9ceb646336224ee890a269d0b4600d09",
-"d9/dcc/prim_8c.html#abf9e6b7e6f15df4b525a2e7705ba3089",
-"dd/d93/client_8c.html#ac17020a38607ab29ce18939d5194a32a"
+"d4/d68/qr__decompose_8h.html",
+"d7/dfd/structdual__quat__.html#a1b05fbc4135e4f9b731423f26527543d",
+"dc/d77/struct__big__int.html#ad8405989a924410942b39ec0e9fef30b",
+"dir_d9e100c82ada2163abea49688a71e81c.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
