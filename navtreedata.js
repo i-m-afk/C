@@ -103,10 +103,8 @@ var NAVTREE =
     [ "LeetCode", "d6/d77/md_leetcode__d_i_r_e_c_t_o_r_y.html", null ],
     [ "📚 Contributing 📚", "df/d58/md_leetcode__r_e_a_d_m_e.html", [
       [ "💻 Cloning/setting up the project 💻", "df/d58/md_leetcode__r_e_a_d_m_e.html#autotoc_md73", null ],
-      [ "📝 Adding a new solution 📝", "df/d58/md_leetcode__r_e_a_d_m_e.html#autotoc_md74", [
-        [ "📜 Adding your new solution to the list 📜", "df/d58/md_leetcode__r_e_a_d_m_e.html#autotoc_md75", null ]
-      ] ],
-      [ "📦 Committing your changes 📦", "df/d58/md_leetcode__r_e_a_d_m_e.html#autotoc_md76", null ]
+      [ "📝 Adding a new solution 📝", "df/d58/md_leetcode__r_e_a_d_m_e.html#autotoc_md74", null ],
+      [ "📦 Committing your changes 📦", "df/d58/md_leetcode__r_e_a_d_m_e.html#autotoc_md75", null ]
     ] ],
     [ "ProjectEuler", "d8/d81/md_project_euler__r_e_a_d_m_e.html", null ],
     [ "Guidelines for reviewers and maintainers", "dc/db4/md__r_e_v_i_e_w_e_r__c_o_d_e.html", null ],
@@ -136,9 +134,9 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d4/d68/qr__decompose_8h.html",
-"d7/dfd/structdual__quat__.html#a1b05fbc4135e4f9b731423f26527543d",
-"dc/d77/struct__big__int.html#ad8405989a924410942b39ec0e9fef30b",
-"dir_d9e100c82ada2163abea49688a71e81c.html"
+"d7/d91/problem__15_2sol1_8c.html#a4650d1d3897633d84253f93433f601d6",
+"dc/d32/problem__5_2sol1_8c.html",
+"dir_296d53ceaeaa7e099814a6def439fe8a.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
